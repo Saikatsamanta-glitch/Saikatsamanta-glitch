@@ -4,7 +4,7 @@ Hi 👋 My name is SAIKAT SAMANTA
 Full stack web developer
 ------------------------
 
-I've been coding for more than 3 years, learning different stacks having a taste towards both software and hardware. I have powered myself with frontend, backend and knowledge of IoT
+I've been coding for more than 5 years, learning different stacks having a taste towards both software and hardware. I have powered myself with frontend, backend and knowledge of IoT
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [saikatsamanta052@gmail.com](mailto:saikatsamanta052@gmail.com)
