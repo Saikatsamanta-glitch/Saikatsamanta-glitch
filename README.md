@@ -8,7 +8,7 @@ I've been coding for more than 3 years, learning different stacks having a taste
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [saikatsamanta052@gmail.com](mailto:saikatsamanta052@gmail.com)
-* 🚀  I'm currently working on [Tata consultancy services](http://www.tcs.com/)
+* 🚀  I'm currently working with [Yapsody](https://www.yapsody.com/ticketing/)
 * 🧠  I'm learning Next Js, TensorFlow
 * 🤝  I'm open to collaborating on Reactnative Apps, Projects to help disabled
 
